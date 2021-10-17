@@ -1,0 +1,1 @@
+MySQL is a database management system if u want to read more about here is the source https://en.wikipedia.org/wiki/MySQL 
